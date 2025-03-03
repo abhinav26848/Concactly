@@ -1,0 +1,6 @@
+@Concactly_HostAddress = http://localhost:5004
+
+GET {{Concactly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
